@@ -1,3 +1,6 @@
 [submodule "Projects/weather-application"]
 	path = Projects/weather-application
 	url = https://github.com/NikunjVadodariya/weather-app
+[submodule "Projects/task-manager-1"]
+	path = Projects/task-manager-1
+	url = https://github.com/NikunjVadodariya/task-manager
